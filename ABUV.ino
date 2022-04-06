@@ -21,8 +21,8 @@ long timeP = 0;
 // Load Wi-Fi library
 #include <WiFi.h>
 
-const char* ssid     = "Unit 221";
-const char* password = "8).E):`_<q8+(C!e_)JT2B";
+const char* ssid     = "wifi";
+const char* password = "password";
 
 //const char* ssid     = "Quint's iPhone";
 //const char* password = "5ztA!nZEnA!^";
